@@ -4,9 +4,10 @@
 The refactored Horiseon Website's code has been made more accsessable and understandable by my additions and edits to it. I've aimed to make the code as readable as possible while adding in features like alt text for images to maintain the pages understandability when accsessed by screenreaders or other devices.
 
 ## Usage
-![Screenshot](assets\images\Screenshot.png)
 
-[title]()
+![Screenshot](/assets/images/Screenshot.png)
+
+[Site Linked Here](https://lroww.github.io/Homework-1/)
 
 ## License
 Copyright 2022 Laura Rowe
