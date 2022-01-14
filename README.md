@@ -5,7 +5,7 @@ The refactored Horiseon Website's code has been made more accsessable and unders
 
 ![Screenshot](/assets/images/Screenshot.png)
 
-[Site Linked Here](https://lroww.github.io/Homework-1/)
+[Site Linked Here](https://lroww.github.io/HW1-Refactor/)
 
 ## License
 Copyright 2022 Laura Rowe
